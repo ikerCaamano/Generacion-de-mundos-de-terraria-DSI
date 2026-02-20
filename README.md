@@ -1,6 +1,6 @@
 # Generacion-de-mundos-de-terraria-DSI
 
-https://www.overleaf.com/project/69982014dbfb175071c59c89
+https://www.overleaf.com/7729411376hhjrrdnhftjp#721f86
 
 ## 1.
 ### Organización
