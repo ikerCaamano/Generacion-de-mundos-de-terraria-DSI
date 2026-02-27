@@ -58,5 +58,8 @@ Nombrar los procesos que vamos a hacer. (hacerlo en el 2?)
 ## 4. 
 Asignar recursos a tareas. 
 
+## 5. 
+Tiene que ir de seguida 
 
+La inclusión de un sistema de generación de mundo mas detallado y con mayor personalización no mostrara un beneficio económico directo,en las primeras partidas de la gran mayoría de jugadores este sistema probablemente no sería usado(sin haber experimentado el juego dificilmente van a ver la necesidad de cambiar la experiencia),su beneficio principal se encuentra en los jugadores que lleven más timepo y busquen experiencias nuevas,más ajustadas a sus gustos y necesidades,pudiendo generar beneficios adicionales a futuro gracias a criticas mas positivos y mayor confianza de los jugadores hacia la empresa para sus futuros juegos.
 
